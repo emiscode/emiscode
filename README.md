@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Emilio Scodeler (@emiscode)
-- 🌱 "Stay hungry, stay foolish"
+- 👋 Hi, I’m Emilio Scodeler
+- Let me show you the code 👨‍💻
 
 <!---
 emiscode/emiscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
