@@ -1,6 +1,6 @@
 👋 Hi, I’m Emilio Scodeler.
 
-I am a Software Engineer with 15 years of experience in IT and 8 years of experience in the full-cycle of software development, designing, coding, testing, deploying, troubleshooting, and maintenance. I also have experience working in Agile Teams following principles of Scrum and Kanban.
+I am a Software Engineer since 2015 and have experience in the full-cycle of software development, designing, coding, testing, deploying, troubleshooting, and maintenance. I also have experience working in Agile Teams following principles of Scrum and Kanban.
 
 During my professional journey, I've had the chance to work with diverse programming languages and technologies. This exposure has enabled my growth and evolution as a developer. While I've accumulated a substantial amount of expertise and hands-on experience, I'm always enthusiastic about continuing to learn and enhance my skills. 
 
