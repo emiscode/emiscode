@@ -1,10 +1,1 @@
-I am a Software Engineer with 18 years of experience in IT, including 10 years working across the full software development lifecycle — from design and coding to testing, deployment, troubleshooting, and maintenance. I also have experience leading Agile teams, applying Scrum and Kanban principles to deliver high-quality solutions.
-
-During my professional journey, I've had the chance to work with diverse programming languages and technologies. This exposure has enabled my growth and evolution as a developer. While I've accumulated a substantial amount of expertise and hands-on experience, I'm always enthusiastic about continuing to learn and enhance my skills. 
-
-I like to solve problems and consider myself a quick learner, self-taught, a dedicated team player, very focused on software quality and reliability. Whenever possible, I try to follow and apply good practices of development such as SOLID, Clean Architecture and Clean Code.
-
-<!---
-emiscode/emiscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Full-Stack Engineer with 18 years in IT and 10+ years in software development, focused on turning product ideas into reliable user-facing software. Strong background across frontend, backend, data, and integrations using Node.js, TypeScript, React, and Next.js, with hands-on experience in SaaS products, educational platforms, AI-powered workflows, and third-party integrations. Hands-on, collaborative, and delivery-oriented, with a strong focus on shipping meaningful improvements in small, consistent increments.
