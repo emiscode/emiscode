@@ -1,1 +1,3 @@
 Senior Full-Stack Engineer with 18 years in IT and 10+ years in software development, focused on turning product ideas into reliable user-facing software. Strong background across frontend, backend, data, and integrations using Node.js, TypeScript, React, and Next.js, with hands-on experience in SaaS products, educational platforms, AI-powered workflows, and third-party integrations. Hands-on, collaborative, and delivery-oriented, with a strong focus on shipping meaningful improvements in small, consistent increments.
+
+View my resume on GitHub: [GitHub Resume](https://github.com/emiscode/emilio-scodeler-resume)
