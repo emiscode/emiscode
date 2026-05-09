@@ -2,7 +2,7 @@
 
 # Emilio Scodeler
 
-### Senior Software Engineer
+### Senior Software Engineer | Full Stack
 
 [Email](mailto:emiscode@gmail.com) | [GitHub](https://github.com/emiscode) | [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
 
