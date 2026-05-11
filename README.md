@@ -79,7 +79,7 @@ Experienced in SaaS products, educational platforms, AI-powered workflows, and t
 **CI&T** | Aug 2021 - Jul 2022
 
 - Built Python/Flask backend services for a telecom B2B platform, implementing business logic and enabling managers to manage client accounts and invoices through integrations with internal systems.
-- Built an independently deployed Java/Quarkus BFF API service to bridge frontend applications with legacy SOAP services, transforming large payloads into lightweight, frontend-ready responses.
+- Built Java/Quarkus BFF API service to bridge frontend applications with legacy SOAP services, transforming large payloads into lightweight, frontend-ready responses.
 - Worked across Node.js, NestJS, Express, Flask, Quarkus, and Vue.js in a multi-stack environment.
 - Improved delivery confidence through reliability initiatives, contract-testing PoCs with Pact, and visual regression tooling with Capybara and Selenium WebDriver.
 
