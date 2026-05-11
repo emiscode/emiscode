@@ -70,7 +70,7 @@ Experienced in SaaS products, educational platforms, AI-powered workflows, and t
 
 - Increased applicant volume by 10% by launching a Google for Jobs integration and improving legacy integrations with Catho and Indeed.
 - Increased automated test coverage from 30% to 80% by implementing BDD and Cucumber tests around critical backend business flows.
-- Built serverless backend services with AWS Lambda, Serverless Framework, Node.js, and Express to integrate job postings and applicant data with external job boards.
+- Built serverless backend services with AWS Lambda, SQS, S3, Node.js, and Express to integrate job postings and applicant data with external job boards.
 - Reverse-engineered a legacy WSO2 integration and replaced it with a more maintainable Node.js and AWS Lambda solution.
 - Improved maintainability and delivery confidence by refactoring Next.js and React frontend features, fixing legacy Rails issues, and documenting APIs with Swagger.
 
