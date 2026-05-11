@@ -26,7 +26,7 @@ Experienced in SaaS products, educational platforms, AI-powered workflows, and t
 | --- | --- |
 | Frontend | React, Next.js, Vue.js, Tailwind CSS |
 | Backend | Node.js, TypeScript, NestJS, Express, Java, Quarkus, Python, Flask, GraphQL, REST APIs |
-| Architecture & Integrations | Microservices, event-driven architecture, BFF APIs, OpenAI, Azure AI, ElevenLabs, Stripe, Twilio, Google Drive, Dropbox, SOAP |
+| Architecture & Integrations | serverless architecture, event-driven workflows, BFF APIs, OpenAI, Azure AI, ElevenLabs, Stripe, Twilio, Google Drive, Dropbox, SOAP |
 | Cloud & Data | AWS, PostgreSQL, MongoDB, Prisma ORM |
 | Quality & Delivery | Agile, Scrum, Kanban, BDD, automated testing, Cucumber, Playwright |
 
