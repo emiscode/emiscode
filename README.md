@@ -14,7 +14,7 @@
 
 Senior Software Engineer with 18 years in IT and 10 years in software development, focused on turning product ideas into reliable, user-facing software.
 
-Strong background across frontend, backend, data, and integrations, with hands-on experience using Node.js, TypeScript, React, Next.js, event-driven architecture, and microservices.
+Strong background across frontend, backend, data, and integrations, with hands-on experience in Node.js, TypeScript, React, Next.js, serverless architecture, AWS Lambda, SQS, S3, and event-driven workflows.
 
 Experienced in SaaS products, educational platforms, AI-powered workflows, and third-party integrations, with a collaborative and delivery-oriented approach to shipping meaningful improvements in small, consistent increments.
 
