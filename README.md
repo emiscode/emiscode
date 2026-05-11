@@ -70,7 +70,7 @@ Experienced in SaaS products, educational platforms, AI-powered workflows, and t
 
 - Increased applicant volume by 10% by launching a Google for Jobs integration and improving legacy integrations with Catho and Indeed.
 - Increased automated test coverage from 30% to 80% by implementing BDD and Cucumber tests around critical backend business flows.
-- Built serverless APIs and microservices with AWS Lambda, Serverless Framework, Node.js, and Express to integrate job postings and applicant data with external job boards.
+- Built serverless backend services with AWS Lambda, Serverless Framework, Node.js, and Express to integrate job postings and applicant data with external job boards.
 - Reverse-engineered a legacy WSO2 integration and replaced it with a more maintainable Node.js and AWS Lambda solution.
 - Improved maintainability and delivery confidence by refactoring Next.js and React frontend features, fixing legacy Rails issues, and documenting APIs with Swagger.
 
@@ -78,7 +78,7 @@ Experienced in SaaS products, educational platforms, AI-powered workflows, and t
 
 **CI&T** | Aug 2021 - Jul 2022
 
-- Built Python/Flask REST microservices for a telecom B2B platform, implementing business logic over service-owned databases and enabling managers to manage client accounts and invoices.
+- Built Python/Flask backend services for a telecom B2B platform, implementing business logic and enabling managers to manage client accounts and invoices through integrations with internal systems.
 - Built an independently deployed Java/Quarkus BFF API service to bridge frontend applications with legacy SOAP services, transforming large payloads into lightweight, frontend-ready responses.
 - Worked across Node.js, NestJS, Express, Flask, Quarkus, and Vue.js in a multi-stack environment.
 - Improved delivery confidence through reliability initiatives, contract-testing PoCs with Pact, and visual regression tooling with Capybara and Selenium WebDriver.
