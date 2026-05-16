@@ -2,7 +2,7 @@
 
 # Emilio Scodeler
 
-### Senior Software Engineer | Full Stack
+### Senior Software Engineer | Full-Stack Product Engineering | Node.js · TypeScript · React · Next.js | AI Workflows & Integrations
 
 [Email](mailto:emiscode@gmail.com) | [GitHub](https://github.com/emiscode) | [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
 
@@ -12,11 +12,11 @@
 
 ## Profile
 
-Senior Software Engineer with 18 years in IT and 10 years in software development, focused on turning product ideas into reliable, user-facing software.
+Senior Software Engineer focused on building full-stack SaaS products, AI-enabled workflows, and reliable third-party integrations with Node.js, TypeScript, React, and Next.js.
 
-Strong background across frontend, backend, data, and integrations, with hands-on experience in Node.js, TypeScript, React, Next.js, serverless architecture and event-driven workflows.
+I bring 18 years in IT and 10 years in software development across frontend, backend, data, cloud, and integrations, turning product ideas into reliable user-facing software.
 
-Experienced in SaaS products, educational platforms, AI-powered workflows, and third-party integrations, with a collaborative and delivery-oriented approach to shipping meaningful improvements in small, consistent increments.
+Experienced in educational platforms, SaaS products, automation workflows, and external integrations, with a collaborative and delivery-oriented approach to shipping meaningful improvements in small, consistent increments.
 
 ---
 
