@@ -2,9 +2,8 @@
 
 # Emilio Scodeler
 
-### Senior Software Engineer | Full-Stack Product Engineering | Node.js · TypeScript · React · Next.js | AI Workflows & Integrations
-
-[Email](mailto:emiscode@gmail.com) | [GitHub](https://github.com/emiscode) | [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
+### Independent Software Engineer | [Email](mailto:emiscode@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
+#### Helping product companies build software that delivers value | Product Engineering · Full-Stack · Architecture
 
 </div>
 
@@ -12,141 +11,38 @@
 
 ## Profile
 
-Senior Software Engineer focused on building full-stack SaaS products, AI-enabled workflows, and reliable third-party integrations with Node.js, TypeScript, React, and Next.js.
+I build software that delivers measurable business value.
 
-I bring 18 years in IT and 10 years in software development across frontend, backend, data, cloud, and integrations, turning product ideas into reliable user-facing software.
+I work independently with product companies to transform ideas into reliable software, evolve MVPs into production-ready systems, and improve quality without slowing delivery.
 
-Experienced in educational platforms, SaaS products, automation workflows, and external integrations, with a collaborative and delivery-oriented approach to shipping meaningful improvements in small, consistent increments.
+My work combines product engineering, software architecture, full-stack development, integrations, testing, and AI-assisted engineering. I am technology-agnostic by principle: frameworks are tools, while the real objective is to solve the right problems and create measurable business value.
 
----
+I bring 18 years in IT and 10 years in software development across frontend, backend, cloud, data, integrations, and product delivery. I work through direct B2B engagements with product companies that value autonomy, ownership, direct communication, and long-term collaboration. My contribution spans product engineering, full-stack delivery, and architecture.
 
-## Core Technologies
+## SELECTED IMPACTS 
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, Next.js, Vue.js, Tailwind CSS |
-| Backend | Node.js, TypeScript, NestJS, Express, Java, Quarkus, Python, Flask, GraphQL, REST APIs |
-| Architecture & Integrations | serverless architecture, event-driven workflows, BFF APIs, OpenAI, Azure AI, ElevenLabs, Stripe, Twilio, Google Drive, Dropbox, SOAP |
-| Cloud & Data | AWS, PostgreSQL, MongoDB, Prisma ORM |
-| Quality & Delivery | Agile, Scrum, Kanban, BDD, automated testing, Cucumber, Playwright |
 
----
+- Continuous Product Velocity: Sustained weekly, friction-free production deployments across active SaaS and ed-tech platforms.
 
-## Selected Impact
+- Expanded Quality Assurance: Enhanced production stability and release safety by implementing automated BDD testing pipelines across critical business paths.
 
-- Delivered weekly production improvements across active SaaS and education products, owning features from implementation to release.
-- Increased automated test coverage from 30% to 80% by introducing BDD and Cucumber-based integration tests across a production codebase.
-- Increased applicant volume by 10% by launching a Google for Jobs integration and improving external job board integrations.
-- Implemented AI, cloud storage, payments, and communication integrations across education, fitness, and operations-focused products.
+- Business Growth: Drove a 10% increase in candidate acquisition volume for an HRtech platform by engineering custom integration workflows.
 
----
+- Modern System Integration: Designed and implemented voice AI, payment systems, and cloud storage workflows for fitness, ed-tech, and operations platforms.
 
-## Professional Experience
+- Legacy Modernization: Replaced a legacy integration service with a scalable, event-driven architecture, reducing operational cost and maintenance friction.
 
-### Software Engineer
 
-**Cheesecake Labs** | Aug 2024 - Present
+## ENGINEERING CAPABILITIES
 
-- Own end-to-end delivery across an educational platform and a tattoo studio SaaS product, contributing to product implementation, APIs, frontend, and data workflows.
-- Ship weekly product increments, keeping delivery continuous and reducing the risk of large, high-friction releases.
-- Build backend services with Node.js, TypeScript, GraphQL, REST, NestJS, and Express for educational content and student activity workflows.
-- Develop modular frontend experiences with React, Next.js, and Tailwind CSS for user-facing SaaS applications.
-- Implement hybrid Next.js architectures combining SSR, CSR, server functions, and REST APIs.
-- Integrated Unity 3D into a web SaaS platform to enable real-time tattoo visualization on 3D human models.
 
-### Software Engineer
+- Full-Stack Engineering: React, Next.js, Node.js, TypeScript, NestJS, Python.
 
-**AE Studio** | Nov 2023 - Jun 2024
+- Architecture & Integrations: REST, GraphQL, BFF APIs, serverless systems, event-driven workflows, third-party integrations.
 
-- Built voice AI and speech-to-text integrations with Azure and ElevenLabs for an educational platform, improving perceived speed and responsiveness for students.
-- Integrated Google Drive and Dropbox into an AI-assisted fitness platform, enabling creators to upload source content and generate workouts more efficiently.
-- Implemented a Stripe payment MVP in staging, helping validate product direction and move the feature into the roadmap.
-- Created PoCs to validate product and automation ideas, including a Twilio and OpenAI workflow for restaurant order automation.
-- Built a Figma plugin using OpenAI to generate React and Tailwind CSS code from design inputs.
+- AI & Automation: OpenAI, Azure AI, ElevenLabs, AI-assisted workflows.
 
-### Software Engineer
+- Cloud & Data: AWS, PostgreSQL, MongoDB, Prisma ORM, S3, SQS, Lambda.
 
-**Solides** | Aug 2022 - Nov 2023
+- Quality & Delivery: Automated E2E testing, BDD, Playwright, continuous delivery, incremental releases.
 
-- Increased applicant volume by 10% by launching a Google for Jobs integration and improving legacy integrations with Catho and Indeed.
-- Increased automated test coverage from 30% to 80% by implementing BDD and Cucumber tests around critical backend business flows.
-- Built serverless backend services with AWS Lambda, SQS, S3, Node.js, and Express to integrate job postings and applicant data with external job boards.
-- Reverse-engineered a legacy WSO2 integration and replaced it with a more maintainable Node.js and AWS Lambda solution.
-- Improved maintainability and delivery confidence by refactoring Next.js and React frontend features, fixing legacy Rails issues, and documenting APIs with Swagger.
-
-### Software Engineer
-
-**CI&T** | Aug 2021 - Jul 2022
-
-- Built Python/Flask backend services for a telecom B2B platform, implementing business logic and enabling managers to manage client accounts and invoices through integrations with internal systems.
-- Built Java/Quarkus BFF API service to bridge frontend applications with legacy SOAP services, transforming large payloads into lightweight, frontend-ready responses.
-- Worked across Node.js, NestJS, Express, Flask, Quarkus, and Vue.js in a multi-stack environment.
-- Improved delivery confidence through reliability initiatives, contract-testing PoCs with Pact, and visual regression tooling with Capybara and Selenium WebDriver.
-
-### Software Engineer / Tech Lead
-
-**Inatel** | Dec 2015 - Aug 2021
-
-- Led a 5-engineer team delivering OSS/BSS systems while remaining hands-on across implementation, reviews, and technical decision-making.
-- Improved sprint predictability, onboarding, and demo readiness through clearer planning, execution support, and knowledge sharing.
-- Partnered with stakeholders, managers, and product owners to translate business needs into technical solutions and delivery plans.
-- Supported team execution through sprint planning, code reviews, technical guidance, and cross-functional alignment.
-- Developed OSS/BSS solutions for the Ericsson platform from the ground up using JavaScript, Java, Groovy, Oracle, and Camunda workflows.
-
----
-
-## Earlier Experience
-
-### Full Stack Web Developer
-
-**Grupo Cimed** | Oct 2014 - Apr 2015
-
-- Built websites and CMS tools using HTML5, CSS3, JavaScript, PHP5, MySQL, Bootstrap, jQuery, SVG, and Git.
-
-### IT Instructor
-
-**CESEC** | Aug 2013 - Apr 2015
-
-- Taught Pascal, Java, computer networking, and operating systems.
-
-### Systems Analyst
-
-**Grupo Via Mondo** | Feb 2013 - Sep 2014
-
-- Supported business users, customized the Dealer Net ERP system, built SQL reports, and maintained a PHP intranet system.
-
-### Business Analyst
-
-**TOTVS** | Mar 2012 - Jan 2013
-
-- Worked on business support and ERP customizations for TOTVS systems using ADVPL, HTML, CSS and JavaScript
-
-### Delphi Developer
-
-**Netsul Informatica** | May 2011 - Mar 2012
-
-- Developed automation systems using Delphi Pascal and Firebird.
-
-### Computer Network Analyst
-
-**Providencia** | Nov 2009 - Apr 2011
-
-- Configured and maintained the computer network, software, operating systems, and printers, and provided user support.
-
-### IT Assistant
-
-**BRAVIEW** | Nov 2007 - Nov 2009
-
-- Configured and maintained the computer network, software, operating systems, and printers, and provided user support.
-
----
-
-## Education
-
-### UNIVAS
-
-**Systems Analyst** | 2008 - 2011
-
-### INPETTECC
-
-**Computer Technician** | 2003 - 2005
