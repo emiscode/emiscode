@@ -2,16 +2,17 @@
 
 # Emilio Scodeler
 
-### Independent Software Engineer |  Product Engineering · Automation · Integrations · AI Workflows
-[Email](mailto:emiscode@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
+### Independent Software Engineer — [Email](mailto:emiscode@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
+#### Product Engineering · Automation · Integrations · AI Workflows
 
-#### I help companies ship reliably—turning MVPs into production systems and making weekly releases boring instead of risky. Based in Brazil and available for collaboration across US and European time zones.
 
 </div>
 
 ---
 
 ## Profile
+
+I help companies ship reliably—turning MVPs into production systems and making weekly releases boring instead of risky. Based in Brazil and available for collaboration across US and European time zones.
 
 I work independently through direct B2B engagements, usually long-term, with companies and teams that value autonomy, ownership, and clear communication.
 
