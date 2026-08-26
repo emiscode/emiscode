@@ -13,7 +13,7 @@
 
 ## Profile
 
-I work independently through direct B2B engagements, usually long-term, with teams that value autonomy, ownership, and clear communication.
+I work independently through direct B2B engagements, usually long-term, with companies and teams that value autonomy, ownership, and clear communication.
 
 I bring ten years of software engineering experience across frontend, backend, cloud, data, integrations, and product delivery—on top of eight years in IT operations. That operational background helps me identify failure modes before they reach production.
 
