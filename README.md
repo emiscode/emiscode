@@ -2,8 +2,10 @@
 
 # Emilio Scodeler
 
-### Independent Software Engineer | [Email](mailto:emiscode@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
-#### Helping product companies build software that delivers value | Product Engineering · Full-Stack · Architecture
+### Independent Software Engineer |  Product Engineering · Automation · Integrations · AI Workflows
+[Email](mailto:emiscode@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emilio-scodeler/)
+
+#### I help companies ship reliably—turning MVPs into production systems and making weekly releases boring instead of risky. Based in Brazil and available for collaboration across US and European time zones.
 
 </div>
 
@@ -11,38 +13,36 @@
 
 ## Profile
 
-I build software that delivers measurable business value.
+I work independently through direct B2B engagements, usually long-term, with teams that value autonomy, ownership, and clear communication.
 
-I work independently with product companies to transform ideas into reliable software, evolve MVPs into production-ready systems, and improve quality without slowing delivery.
+I bring ten years of software engineering experience across frontend, backend, cloud, data, integrations, and product delivery—on top of eight years in IT operations. That operational background helps me identify failure modes before they reach production.
 
-My work combines product engineering, software architecture, full-stack development, integrations, testing, and AI-assisted engineering. I am technology-agnostic by principle: frameworks are tools, while the real objective is to solve the right problems and create measurable business value.
-
-I bring 18 years in IT and 10 years in software development across frontend, backend, cloud, data, integrations, and product delivery. I work through direct B2B engagements with product companies that value autonomy, ownership, direct communication, and long-term collaboration. My contribution spans product engineering, full-stack delivery, and architecture.
+If you are deciding between adding headcount and bringing in someone who can own a product area end-to-end, send me a message.
 
 ## SELECTED IMPACTS 
 
+- Sustained weekly production releases across SaaS and ed-tech platforms without freezing feature work.
 
-- Continuous Product Velocity: Sustained weekly, friction-free production deployments across active SaaS and ed-tech platforms.
+- Increased candidate acquisition by 10% for an HR-tech platform through custom integration workflows.
 
-- Expanded Quality Assurance: Enhanced production stability and release safety by implementing automated BDD testing pipelines across critical business paths.
+- Implemented automated BDD coverage across critical business paths, improving release confidence and regression protection.
 
-- Business Growth: Drove a 10% increase in candidate acquisition volume for an HRtech platform by engineering custom integration workflows.
+- Built voice AI, payment, and cloud-storage integrations for fitness, ed-tech, and operations platforms.
 
-- Modern System Integration: Designed and implemented voice AI, payment systems, and cloud storage workflows for fitness, ed-tech, and operations platforms.
-
-- Legacy Modernization: Replaced a legacy integration service with a scalable, event-driven architecture, reducing operational cost and maintenance friction.
+- Replaced a legacy integration service with an event-driven architecture, reducing maintenance friction and operational risk.
 
 
 ## ENGINEERING CAPABILITIES
 
+Technologies are tools; what matters is solving the right problem.
 
-- Full-Stack Engineering: React, Next.js, Node.js, TypeScript, NestJS, Python.
+- Full-Stack Engineering: React, Next.js, Node.js, TypeScript, NestJS, and Python.
 
-- Architecture & Integrations: REST, GraphQL, BFF APIs, serverless systems, event-driven workflows, third-party integrations.
+- Architecture & Integrations: REST, GraphQL, BFFs, serverless systems, event-driven workflows, and third-party integrations.
 
-- AI & Automation: OpenAI, Azure AI, ElevenLabs, AI-assisted workflows.
+- AI & Automation: OpenAI, Azure AI, ElevenLabs, and AI-assisted products and workflows.
 
-- Cloud & Data: AWS, PostgreSQL, MongoDB, Prisma ORM, S3, SQS, Lambda.
+- Cloud & Data: AWS, PostgreSQL, MongoDB, Prisma ORM, S3, SQS, and Lambda.
 
-- Quality & Delivery: Automated E2E testing, BDD, Playwright, continuous delivery, incremental releases.
+- Quality & Delivery: End-to-end testing, BDD, Playwright, continuous delivery, and incremental releases.
 
